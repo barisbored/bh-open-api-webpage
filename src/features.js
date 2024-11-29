@@ -1,6 +1,6 @@
 const defaultBrawlhallaID = "brawlhalla_id=3145331";
 const defaultSteamID = "steam_id=76561198320003276";
-const defaultSteamURL = "steam_url=https://steamcommunity.com/id/barisbored/";
+const defaultSteamURL = "steam_url=https://steamcommunity.com/id/barbarbar338/";
 const defaultLegendID = "legend_id=3";
 const defaultLegendName = "legend_name=cassidy";
 const defaultRankedData = "region=eu&page=1";
